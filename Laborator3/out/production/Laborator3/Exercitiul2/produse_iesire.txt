@@ -1,0 +1,3 @@
+Produs{denumire='Unt', pret=10.0, cantitate=30, dataExpirare=2025-01-05}
+Produs{denumire='Brânză', pret=15.0, cantitate=20, dataExpirare=2025-03-15}
+Produs{denumire='Mălai', pret=6.0, cantitate=10, dataExpirare=2025-04-10}

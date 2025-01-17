@@ -1,0 +1,3 @@
+Denumire: Unt Pret: 10.0 Cantitate: 30 Data Expirare: 2025-01-05
+Denumire: Brânză Pret: 15.0 Cantitate: 20 Data Expirare: 2025-03-15
+Denumire: Mălai Pret: 6.0 Cantitate: 10 Data Expirare: 2025-04-10
