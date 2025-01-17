@@ -1,0 +1,6 @@
+Imprimanta HP_LaserJet 101 1200.50 A1 ACHIZITIONAT 30 600 1500 alb_negru
+Copiator Canon_Copier 102 2000.75 B2 EXPUS 5000 A4
+SistemCalcul Dell_Inspiron 103 3500.00 C3 VANDUT LED 3.5 1024 Windows
+Imprimanta Epson_Color 104 1500.00 A2 EXPUS 25 720 2000 color
+Copiator Ricoh_Copier 105 1800.50 B1 ACHIZITIONAT 3000 A3
+SistemCalcul HP_EliteBook 106 4000.00 C4 ACHIZITIONAT IPS 2.8 512 Linux
