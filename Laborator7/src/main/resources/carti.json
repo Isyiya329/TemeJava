@@ -1,0 +1,27 @@
+{
+  "1": {
+    "titlu": "Sapiens: O scurta istorie a omenirii",
+    "autor": "Yuval Noah Harari",
+    "anAparitie": 2014
+  },
+  "2": {
+    "titlu": "1984",
+    "autor": "George Orwell",
+    "anAparitie": 1949
+  },
+  "3": {
+    "titlu": "To Kill a Mockingbird",
+    "autor": "Harper Lee",
+    "anAparitie": 1960
+  },
+  "4": {
+    "titlu": "Harry Potter",
+    "autor": "J.K. Rowling",
+    "anAparitie": 2018
+  },
+  "5": {
+    "titlu": "The Little Prince",
+    "autor": "Antoine de Saint-Exupéry",
+    "anAparitie": 1925
+  }
+}
