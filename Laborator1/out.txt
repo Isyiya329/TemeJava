@@ -1,4 +1,0 @@
-Suma elementelor date este: 29.0
-Media aritmetica a elementelor date este: 5.8
-Valoarea maxima a numerelor date este: 8
-Valoarea minima a numerelor date este: 3
